@@ -1,0 +1,8 @@
+target
+.settings
+.checkstyle
+.classpath
+.fbprefs
+.pmd
+.project
+git-add-commit-push.sh
